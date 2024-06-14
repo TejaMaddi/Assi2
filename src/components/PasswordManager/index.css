@@ -1,0 +1,161 @@
+.app-container {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  padding: 12px;
+}
+.applogo {
+  width: 100px;
+}
+.addcard {
+  background-color: #5763a5;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+.password {
+  width: 100%;
+}
+.formcard {
+  background-color: #454f84;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-weight: 500;
+  font-size: 12px;
+}
+.websitecontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 35px;
+  background-color: #f8fafc;
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
+.website {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border-style: none;
+  outline: none;
+  font-family: 'Roboto';
+  border-left-style: solid;
+  border-left-color: #94a3b8;
+  border-left-width: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #94a3b8;
+  padding: 5px;
+}
+.website-image {
+  width: 14px;
+  height: 14px;
+  margin: 10px;
+}
+.addbutton {
+  background-color: #0b69ff;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border-radius: 4px;
+}
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.bottomcard {
+  padding: 10px;
+  background-color: #5763a5;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+.head-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head {
+  display: flex;
+  align-items: center;
+}
+.commentshead {
+  font-size: 12px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.websitecontainer1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 20px;
+  background-color: #f8fafc;
+  border-radius: 2px;
+}
+.website1 {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border-style: none;
+  outline: none;
+  font-family: 'Roboto';
+  border-left-style: solid;
+  border-left-color: #94a3b8;
+  border-left-width: 1px;
+  font-size: 8px;
+  font-weight: 500;
+  padding: 5px;
+}
+.website-image1 {
+  width: 14px;
+  height: 14px;
+  margin: 10px;
+}
+.showcontainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.label {
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.check-box {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.nopassword {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.no-password {
+  width: 100%;
+}
+.matter {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.ul1 {
+  padding: 0px;
+  list-style-type: none;
+}
